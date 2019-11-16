@@ -20,6 +20,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     UILabel * lab = [[UILabel alloc]init];
+    lab.text = @"Hellow ";
     // Do any additional setup after loading the view.
 }
 
