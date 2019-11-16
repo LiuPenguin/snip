@@ -19,6 +19,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    UILabel * lab = [[UILabel alloc]init];
     // Do any additional setup after loading the view.
 }
 
